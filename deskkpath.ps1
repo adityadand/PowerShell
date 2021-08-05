@@ -1,0 +1,1 @@
+function deskk() { pushd C:\Users\Dell\Onedrive\Desktop }
